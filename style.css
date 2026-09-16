@@ -20,6 +20,10 @@ header h1 {
   padding-top: 50px;
 }
 
+hr {
+  opacity: 100%;
+}
+
 header p {
   font-size: 1.5rem;
   padding-bottom: 50px;
