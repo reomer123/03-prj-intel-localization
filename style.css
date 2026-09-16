@@ -66,6 +66,9 @@ p {
 
 .card h3 {
   margin: 10px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .card img {
@@ -117,5 +120,6 @@ p {
   .card {
     width: 90%;
     height: auto;
+    margin: 0;
   }
 }
