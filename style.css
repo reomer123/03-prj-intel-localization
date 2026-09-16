@@ -93,7 +93,12 @@ p {
   opacity: 1;
 }
 
-@media (max-width: 600px) {
+#subscription-form {
+  width: 70%;
+  margin: auto;
+}
+
+@media (max-width: 767px) {
   header img {
     position: relative;
     top: auto;
